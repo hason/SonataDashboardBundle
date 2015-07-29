@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/dashboard-bundle",
+    "name": "php-labs/sonata-dashboard-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonataDashboardBundle",
     "keywords": ["dashboard", "sonata", "cms"],
