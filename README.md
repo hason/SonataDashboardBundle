@@ -21,4 +21,4 @@ This bundle is available under the [MIT license](Resources/meta/LICENSE).
 Thanks
 ------
 
-Thanks to [http://www.canalplus.fr/](CanalPlus) who allow this Bundle to be OpenSourced
+Thanks to [CanalPlus](http://www.canalplus.fr/) who allow this Bundle to be OpenSourced
