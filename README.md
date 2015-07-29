@@ -16,3 +16,9 @@ License
 -------
 
 This bundle is available under the [MIT license](Resources/meta/LICENSE).
+
+
+Thanks
+------
+
+Thanks to [http://www.canalplus.fr/](CanalPlus) who allow this Bundle to be OpenSourced
